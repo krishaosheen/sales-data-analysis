@@ -1,0 +1,9 @@
+COMPUTED SYNTHETIC-DATA SUMMARY
+Rows: 42
+Units sold: 1336
+Revenue: $37,003.50
+Estimated profit: $17,931.70
+Estimated profit margin: 48.5%
+Top product by revenue: Monitor ($15,660.00)
+Top region by revenue: South ($11,292.00)
+All figures are for invented sample data only.
